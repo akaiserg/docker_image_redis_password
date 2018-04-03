@@ -1,7 +1,7 @@
 DOCKER REDIS
 ---------------------
 
-Docker file for redis wit config
+Docker file for redis with config
 
 Util commands
 ---------------------
